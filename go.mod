@@ -1,4 +1,4 @@
-module github.com/SthMax/poe-openai-proxy
+module github.com/SthMax/poe-to-gpt
 
 go 1.19
 

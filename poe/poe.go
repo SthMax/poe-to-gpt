@@ -2,12 +2,13 @@ package poe
 
 import (
 	"errors"
-	"github.com/go-resty/resty/v2"
-	"github.com/gorilla/websocket"
-	"github.com/SthMax/poe-openai-proxy/conf"
-	"github.com/SthMax/poe-openai-proxy/util"
 	"sync"
 	"time"
+
+	"github.com/SthMax/poe-to-gpt/conf"
+	"github.com/SthMax/poe-to-gpt/util"
+	"github.com/go-resty/resty/v2"
+	"github.com/gorilla/websocket"
 )
 
 var httpClient *resty.Client

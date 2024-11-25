@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
+	"github.com/SthMax/poe-to-gpt/conf"
+	"github.com/SthMax/poe-to-gpt/poe"
+	"github.com/SthMax/poe-to-gpt/util"
 	"github.com/gin-gonic/gin"
-	"github.com/SthMax/poe-openai-proxy/conf"
-	"github.com/SthMax/poe-openai-proxy/poe"
-	"github.com/SthMax/poe-openai-proxy/util"
 )
 
 func contains(s []string, v string) bool {
