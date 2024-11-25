@@ -9,14 +9,14 @@ Note that access to an API key is currently limited to Poe subscribers to minimi
 
 The location to obtain the API key:[https://poe.com/api_key](https://poe.com/api_key)
 
-[中文文档](https://github.com/formzs/poe-to-gpt/blob/master/README_zh.md)
+[中文文档](https://github.com/SthMax/poe-to-gpt/blob/master/README_zh.md)
 
 ## Installation
 
 Clone this repository to your local machine:
 
 ```
-git clone https://github.com/formzs/poe-to-gpt.git
+git clone https://github.com/SthMax/poe-to-gpt.git
 cd poe-gpt-api/
 ```
 
@@ -43,8 +43,8 @@ Build and start the Go backend:
 
 ```
 go build
-chmod +x poe-openai-proxy
-./poe-openai-proxy
+chmod +x poe-to-gpt
+./poe-to-gpt
 ```
 
 ### Docker support

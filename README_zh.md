@@ -14,7 +14,7 @@ poe 订阅者获取API key地址：[https://poe.com/api_key](https://poe.com/api
 将此存储库克隆到本地机器：
 
 ```
-git clone https://github.com/formzs/poe-to-gpt.git
+git clone https://github.com/SthMax/poe-to-gpt.git
 cd poe-gpt-api/
 ```
 
@@ -41,8 +41,8 @@ python external/api.py # 运行在端口 5100
 
 ```
 go build
-chmod +x poe-openai-proxy
-./poe-openai-proxy
+chmod +x poe-to-gpt
+./poe-to-gpt
 ```
 
 ### Docker 支持
