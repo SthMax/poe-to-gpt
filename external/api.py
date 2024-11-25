@@ -55,7 +55,7 @@ async def stream_get_responses(api_key, prompt, bot):
         except GeneratorExit:
             return
     else:
-        yield "Not supported by this Model"
+        yield "Not supported by this Model: {}".format(bot)
 
 
 async def add_token(token: str):
