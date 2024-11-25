@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"github.com/juzeon/poe-openai-proxy/conf"
-	"github.com/juzeon/poe-openai-proxy/poe"
-	"github.com/juzeon/poe-openai-proxy/util"
+	"github.com/SthMax/poe-openai-proxy/conf"
+	"github.com/SthMax/poe-openai-proxy/poe"
+	"github.com/SthMax/poe-openai-proxy/util"
 )
 
 func contains(s []string, v string) bool {

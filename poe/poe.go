@@ -4,8 +4,8 @@ import (
 	"errors"
 	"github.com/go-resty/resty/v2"
 	"github.com/gorilla/websocket"
-	"github.com/juzeon/poe-openai-proxy/conf"
-	"github.com/juzeon/poe-openai-proxy/util"
+	"github.com/SthMax/poe-openai-proxy/conf"
+	"github.com/SthMax/poe-openai-proxy/util"
 	"sync"
 	"time"
 )

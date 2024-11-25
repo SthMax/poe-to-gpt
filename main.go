@@ -5,9 +5,9 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/juzeon/poe-openai-proxy/conf"
-	"github.com/juzeon/poe-openai-proxy/poe"
-	"github.com/juzeon/poe-openai-proxy/router"
+	"github.com/SthMax/poe-openai-proxy/conf"
+	"github.com/SthMax/poe-openai-proxy/poe"
+	"github.com/SthMax/poe-openai-proxy/router"
 )
 
 func main() {

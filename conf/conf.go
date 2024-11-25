@@ -90,6 +90,9 @@ func Setup() {
 			"FLUX-dev":                "FLUX-dev",
 			"FLUX-pro":                "FLUX-pro",
 			"FLUX-pro-1.1":            "FLUX-pro-1.1",
+			"o1-mini":				   "o1-mini",
+			"o1-preview":			   "o1-preview",
+			"gpt-4o-latest":		   "ChatGPT-4o-Latest",
 		}
 	}
 
