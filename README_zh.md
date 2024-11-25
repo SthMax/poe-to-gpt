@@ -138,6 +138,14 @@ chmod +x poe-to-gpt
 
 "FLUX-pro-1.1" = "FLUX-pro-1.1"
 
+
+"o1-mini" = "o1-mini"
+
+"o1-preview" = "o1-preview"
+
+"gpt-4o-latest" = "ChatGPT-4o-Latest"
+
+
 ## 鸣谢
 - https://github.com/juzeon/poe-openai-proxy
 - https://developer.poe.com/server-bots/accessing-other-bots-on-poe

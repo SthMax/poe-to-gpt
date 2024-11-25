@@ -140,6 +140,12 @@ Other parameters will be ignored.
 
 "FLUX-pro-1.1" = "FLUX-pro-1.1"
 
+"o1-mini" = "o1-mini"
+
+"o1-preview" = "o1-preview"
+
+"gpt-4o-latest" = "ChatGPT-4o-Latest"
+
 
 ## Credit
 - https://github.com/juzeon/poe-openai-proxy
